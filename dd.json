@@ -25,6 +25,10 @@
                         "chancetodrop": 1
                     },
                     {
+                        "dino": "/Game/Mods/Aquaria/Fish/Crypto/Crypto_Character_BP.Crypto_Character_BP'",
+                        "chancetodrop": 1
+                    },
+                    {
                         "dino": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
                         "chancetodrop": 1
                     },
@@ -127,10 +131,6 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP'",
-                        "chancetodrop": 1
-                    },
-                    {
-                        "dino": "/Game/Mods/Aquaria/Fish/Crypto/Crypto_Character_BP.Crypto_Character_BP'",
                         "chancetodrop": 1
                     },
                     {
