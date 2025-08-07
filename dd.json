@@ -118,10 +118,6 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/game/Mods/PA_Plus_Pack_01/Content/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
-                        "chancetodrop": 1
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
                         "chancetodrop": 1
                     },
@@ -135,10 +131,6 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-                        "chancetodrop": 1
-                    },
-                    {
-                        "dino": "/Game/ATDraconyx/Draconyx/Draconyx_Character_BP.Draconyx_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
@@ -215,23 +207,11 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/AstraeosCreatures/Seahorse/Seahorse_Character_BP",
-                        "chancetodrop": 1
-                    },
-                    {
                         "dino": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/Mods/NobleOtter/ModContent/Noble_Otter_Character_BP.Noble_Otter_Character_BP",
-                        "chancetodrop": 1
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP",
-                        "chancetodrop": 1
-                    },
-                    {
-                        "dino": "/Game/Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -365,10 +345,6 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/AstraeosCreatures/Minotaur/Minotaur_Character_BP",
-                        "chancetodrop": 1
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
                         "chancetodrop": 0.6
                     },
@@ -456,10 +432,6 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
                         "chancetodrop": 0.4
-                    },
-                    {
-                        "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
-                        "chancetodrop": 0.3
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
