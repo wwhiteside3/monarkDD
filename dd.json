@@ -25,10 +25,6 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/Mods/Aquaria/Fish/Crypto/Crypto_Character_BP.Crypto_Character_BP'",
-                        "chancetodrop": 1
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
                         "chancetodrop": 1
                     },
@@ -77,7 +73,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 10
             },
             {
                 "weekforoptions": [
@@ -86,59 +82,63 @@
                         "chancetodrop": 0.8
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP'",
+                        "dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'",
+                        "dino": "/Game/Mods/Aquaria/Fish/Crypto/Crypto_Character_BP.Crypto_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/ATDraconyx/Draconyx/Draconyx_Character_BP.Draconyx_Character_BP''",
+                        "dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+                        "chancetodrop": 1
+                    },
+                    {
+                        "dino": "/ATDraconyx/Draconyx/Draconyx_Character_BP.Draconyx_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
@@ -186,7 +186,7 @@
                         "chancetodrop": 0.95
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 10
             },
             {
                 "weekforoptions": [
@@ -195,7 +195,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA'",
+                        "dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
                         "chancetodrop": 1
                     },
                     {
@@ -203,15 +203,15 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP",
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'",
+                        "dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -231,7 +231,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP'",
+                        "dino": "Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -283,7 +283,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 10
             },
             {
                 "weekforoptions": [
@@ -340,7 +340,7 @@
                         "chancetodrop": 0.8
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 10
             },
             {
                 "weekforoptions": [
@@ -365,7 +365,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/AstraeosCreatures/Minotaur/Saddle/PrimalItemArmor_MinotaurSaddle.PrimalItemArmor_MinotaurSaddle",
+                        "dino": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -405,7 +405,7 @@
                         "chancetodrop": 0.4
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 10
             },
             {
                 "weekforoptions": [
@@ -466,7 +466,7 @@
                         "chancetodrop": 0.3
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 15
             }
         ]
     }
