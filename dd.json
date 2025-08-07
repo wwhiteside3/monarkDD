@@ -138,7 +138,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/ATDraconyx/Draconyx/Draconyx_Character_BP.Draconyx_Character_BP_C",
+                        "dino": "/Game/ATDraconyx/Draconyx/Draconyx_Character_BP.Draconyx_Character_BP_C",
                         "chancetodrop": 1
                     },
                     {
@@ -215,7 +215,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP",
+                        "dino": "/Game/AstraeosCreatures/Seahorse/Seahorse_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -231,7 +231,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP",
+                        "dino": "/Game/Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP",
                         "chancetodrop": 1
                     },
                     {
@@ -365,7 +365,7 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP",
+                        "dino": "/Game/AstraeosCreatures/Minotaur/Minotaur_Character_BP",
                         "chancetodrop": 1
                     },
                     {
